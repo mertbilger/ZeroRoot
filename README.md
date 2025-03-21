@@ -21,7 +21,9 @@ cd <proje_dizini>
 Projeyi izole bir ortamda çalıştırmak için bir sanal ortam oluşturmanız önerilir. Aşağıdaki komutu çalıştırarak sanal ortamı oluşturabilirsiniz:
 
 ```bash
-python -m venv venv
+sudo apt update
+sudo apt install python3-venv
+python3 -m venv venv
 ```
 
 ## Sanal Ortamı Aktifleştirme
@@ -53,7 +55,7 @@ Bu komut, proje için gerekli olan tüm bağımlılıkları `requirements.txt` d
 Bağımlılıkları yükledikten sonra, projenizi başlatmak için ilgili komutu çalıştırabilirsiniz. Örneğin:
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## Sanal Ortamı Devre Dışı Bırakma
