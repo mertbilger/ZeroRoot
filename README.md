@@ -7,7 +7,7 @@ Bu rehber, projeyi başka bir ortamda çalıştırmak isteyen kullanıcılar iç
 Öncelikle, projeyi GitHub veya başka bir kaynaktan yerel makinenize klonlayın:
 
 ```bash
-git clone https://github.com/mertbilger/ZeroRoot.git
+git clone <proje_linki>
 cd <proje_dizini>
 ```
 
@@ -71,6 +71,10 @@ Eğer bağımlılıkları yüklerken hata alırsanız, aşağıdaki adımları d
 - Sanal ortamın aktif olduğundan emin olun.
 
 ---
+
+## Sorumluluk Reddi
+
+Bu proje yalnızca eğitim ve araştırma amaçlı geliştirilmiştir. Kötü niyetli veya yasa dışı faaliyetlerde kullanımı kesinlikle yasaktır. Kullanıcılar, bu aracı kullanırken yürürlükteki tüm yasa ve yönetmeliklere uymakla yükümlüdür. Geliştirici, bu aracın yanlış kullanımından doğabilecek herhangi bir zarar veya hukuki sorumluluğu kabul etmez.
 
 Bu adımları takip ederek projeyi başarılı bir şekilde kurabilir ve çalıştırabilirsiniz. İyi çalışmalar!
 
