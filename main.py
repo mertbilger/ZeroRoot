@@ -54,12 +54,12 @@ class SecurityTool:
         |   |::::;|   |
         |   \:::://   |
         |    `.://'   |
-jgs    .'             `.
+       .'             `.
     _,'                 `,_    
         """
     
     def show_ascii_art(self):
-        # ASCII sanatını ekrana yazdırıyoruz
+        # ASCII sanatını ekrana yazdırıy
         print(self.ascii_art)
         
     # 1. IP Bulma (Domain'den IP almak)
