@@ -1,3 +1,6 @@
+## Proje En Sade Haldedir. Geliştiriliyor...
+
+
 ## Sorumluluk Reddi
 
 Bu proje yalnızca eğitim ve araştırma amaçlı geliştirilmiştir. Kötü niyetli veya yasa dışı faaliyetlerde kullanımı kesinlikle yasaktır. Kullanıcılar, bu aracı kullanırken yürürlükteki tüm yasa ve yönetmeliklere uymakla yükümlüdür. Geliştirici, bu aracın yanlış kullanımından doğabilecek herhangi bir zarar veya hukuki sorumluluğu kabul etmez.
